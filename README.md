@@ -677,6 +677,7 @@ a {
 }
 ```
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/dd9484ec-055c-4737-880f-8340e4c14627" />
 
 
 ## RESULT:
